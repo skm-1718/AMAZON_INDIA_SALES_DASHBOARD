@@ -14,53 +14,93 @@ The objective of this project is to analyze Amazon India sales data and develop 
 The dashboard provides a consolidated view of:
 
 Sales performance
+
 Profitability
+
 Order volume
+
 Units sold
+
 Average Order Value (AOV)
+
 Profit margin
+
 Return performance
+
 Cancellation performance
+
 Product performance
+
 Category performance
+
 Payment methods
+
 Fulfillment models
+
 State-wise sales
+
 🎯 Business Objectives
 
 The project focuses on answering important business questions such as:
 
 What is the total sales and profit generated?
+
+
 How many orders and units were sold?
+
 What is the Average Order Value?
+
 What is the overall profit margin?
+
 Which product categories generate the highest sales?
+
 Which products are the top performers?
+
 What are the monthly sales and profit trends?
+
 Which payment methods contribute the most to sales?
+
 How do different fulfillment models perform?
+
 Which Indian states generate the highest sales?
+
 What is the overall return rate?
+
 What is the cancellation rate?
+
 How do return and cancellation rates vary by category?
+
 What is the distribution of different order statuses?
+
+
 📌 Key KPIs
 
 The dashboard tracks the following KPIs:
 
 KPI	Value
+
 💰 Total Sales	₹155,789,893.89
+
 📈 Total Profit	₹33,167,008.49
+
 🛒 Total Orders	10,000
+
 📦 Units Sold	24,926
+
 💵 Average Order Value	₹15,578.99
+
 📊 Profit Margin	21.29%
+
 🔄 Return Rate	4.85%
+
 ❌ Cancellation Rate	5.00%
+
 ↩️ Returned Orders	485
+
 🚫 Cancelled Orders	500
 
 Units Sold is calculated as the sum of the Quantity column across all orders.
+
 
 📈 Dashboard Visualizations
 
@@ -98,124 +138,125 @@ Analyzes sales performance across fulfillment models.
 
 Highlights sales distribution across Indian states.
 
+
 🎛️ Interactive Slicers
 
 The dashboard includes interactive Excel slicers for:
 
 Category
+
 Product
+
 Ship State
+
 Order Status
+
 Payment Method
+
 Fulfillment
 
 These slicers allow users to dynamically filter the dashboard and analyze specific segments of the business.
 
 🧮 KPI Calculation Logic
+
 Total Sales
+
 Units Sold
+
 Total Orders
+
 Average Order Value
+
 Profit Margin
+
 Return Rate
+
 Cancellation Rate
+
 Example: Apparel Cancellation Rate
+
 Example: Electronics & Mobiles Return Rate
+
+
 🗂️ Dataset
 
 The dataset contains Amazon India order-level sales information including fields such as:
 
 Order ID
+
 Order Date
+
 Category
+
 Product
+
 Quantity
+
 Unit Price
+
 Discount
+
 Total Sales
+
 Profit
+
 Order Status
+
 Payment Method
+
 Fulfillment
+
 Ship State
+
 Customer/Order-related attributes
 
 The dataset contains approximately 10,000 orders.
 
+
 🛠️ Tools & Technologies
-Tool	Purpose
+
 Microsoft Excel	Data analysis & dashboard development
+
 Pivot Tables	Data aggregation
+
 Pivot Charts	Data visualization
+
 Excel Slicers	Interactive filtering
+
 Excel Formulas	KPI calculations
+
 Data Cleaning	Data quality preparation
+
 Data Visualization	Business insights
+
+
 🔄 Project Workflow
+
 💡 Key Analytical Insights
 
 The dashboard enables analysis of:
 
 Overall revenue and profitability
+
 Product and category sales contribution
+
 Monthly business performance
+
 High-performing products
+
 Geographic sales concentration
+
 Payment method preferences
+
 Fulfillment performance
+
 Order status distribution
+
 Product return behavior
+
 Category-level cancellation behavior
 
-For example, category-specific metrics can be calculated using:
 
-This provides a more granular view of operational performance rather than relying only on overall cancellation and return rates.
-
-📁 Repository Structure
-🚀 How to Use
-Download the Excel workbook.
-Open it using Microsoft Excel Desktop.
-Navigate to Amazon India Sales Dashboard.
-Use the slicers on the dashboard to filter the analysis.
-Select different categories, products, states, payment methods, or fulfillment models.
-Observe how the KPIs and charts respond to the selected filters.
-📌 Skills Demonstrated
-
-This project demonstrates practical skills in:
-
-Data Analysis
-Data Cleaning
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-KPI Development
-Dashboard Design
-Data Visualization
-Business Intelligence
-Interactive Reporting
-Sales Analytics
-Profitability Analysis
-E-commerce Analytics
-👨‍💻 Author
-
-Sangram Keshari Mohapatra
-
-Data Analyst | Finance & Analytics
-
-Core Skills
-
-SQL • Python • Power BI • Microsoft Excel • Tableau • Data Analysis • EDA • Dashboard Development
-
-Connect With Me
-LinkedIn: Sangram Keshari Mohapatra
-GitHub: skm-1718
-⭐ Project Highlights
-
-An end-to-end Excel Business Intelligence project transforming Amazon India sales data into an interactive, KPI-driven sales dashboard for performance monitoring and business analysis.
-
-If you're uploading this to GitHub, I recommend naming the repository:
-
-amazon-india-sales-dashboard
 
 and using this short GitHub description:
 
