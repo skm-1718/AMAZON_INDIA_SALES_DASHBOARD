@@ -5,8 +5,6 @@ An interactive Amazon India Sales Analytics Dashboard built in Microsoft Excel t
 <img width="547" height="392" alt="AMAZON_INDIA_SALES_DASHBOARD" src="https://github.com/user-attachments/assets/68a7929d-4685-498c-ad08-bd82d3d589e2" />
 
 
-An interactive Amazon India Sales Analytics Dashboard built in Microsoft Excel to analyze sales performance, profitability, order trends, product performance, customer order outcomes, payment methods, fulfillment models, and geographic sales distribution.
-
 The dashboard combines data analysis, Pivot Tables, Pivot Charts, KPIs, and interactive slicers to transform raw Amazon India sales data into actionable business insights.
 
 📊 Project Overview
